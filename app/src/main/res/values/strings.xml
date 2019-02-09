@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Prove05</string>
+    <string name="enter_scripture">New Favorite Scripture</string>
+    <string name="book_name">Book Name</string>
+    <string name="chapter">Chapter</string>
+    <string name="verse">Verse</string>
+    <string name="button_add">Add</string>
+    <string name="button_load">Load Scripture</string>
+    <string name="scripture">Scripture</string>
+    <string name="title_activity_second">Second Activity</string>
+    <string name="save_scripture">Save Scripture</string>
+    <string name="default_value">empty</string>
+</resources>
